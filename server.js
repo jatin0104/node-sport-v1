@@ -2,6 +2,10 @@
 * 	ENTRY POINT		*
 ********************************/
 
+const dotenv = require('dotenv');
+dotenv.config();
+
+
 /** SERVER CONFIGURATION */
 
 var app = require('./app'),
