@@ -4,19 +4,15 @@ This project is a sports application developed using Node.js, featuring an admin
 
 # Table of Contents
     1. Features
-    3. Configuration
-    4. Usage
-    5. API Documentation
-    6. Admin Panel
-    7. Technologies Used
-    8. Contributing
-    9. License
+    2. Configuration
+    3. Admin Panel
+    4. Technologies Used
 
 
 #   Features
-    - Team Registration: Users can sign-up / Register their Team(s).
-    - Payment Integration: Secure payment gateway for event registrations and other services.
-    - Admin Panel: Comprehensive admin panel for managing users, and transactions.
+- Team Registration: Users can sign-up / Register their Team(s).
+- Payment Integration: Secure payment gateway for event registrations and other services.
+- Admin Panel: Comprehensive admin panel for managing users, and transactions.
 
 #   Configuration
 The application can be configured by modifying the environment variables in the .env file.
